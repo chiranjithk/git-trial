@@ -1,3 +1,7 @@
 "new line" 
+<<<<<<< HEAD
 new
 line 
+=======
+new in github
+>>>>>>> a93d4cc6636b1a1ede7552ac4bbff636fc23ffcf
